@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Traffic Surveillance</string>
+    <string name="title_activity_transaction">Transactions</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_home">Toll</string>
+    <string name="title_dashboard">Fines</string>
+    <string name="title_activity_toll">Toll and Fines</string>
+    <string name="title_activity_parking">Parkings</string>
+    <string name="title_activity_help">Trace Car</string>
+</resources>
